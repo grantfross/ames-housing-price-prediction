@@ -16,7 +16,7 @@ The dataset contains housing records from Ames, Iowa, collected between 2006 and
 - Garage and basement details
 - Sale date and condition
 
-Train and test sets were provided in `.parquet` format.
+
 
 ## Methods
 
