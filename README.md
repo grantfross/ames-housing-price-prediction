@@ -1,5 +1,5 @@
 # ames-housing-price-prediction
-This project builds a machine learning model to predict the sale prices of homes in Ames, Iowa based on detailed property features.
+A machine learning pipeline that predicts home sale prices in Ames, Iowa by leveraging detailed property features with thorough preprocessing and model tuning for real estate valuation.
 
 ## Context
 
